@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="red.png">
+<SubTexture name="red normalS0000" x="0" y="0" width="296" height="387" frameX="0" frameY="0" frameWidth="296" frameHeight="387" />
+<SubTexture name="red normal0000" x="0" y="0" width="296" height="387" frameX="0" frameY="0" frameWidth="296" frameHeight="387" />
+<SubTexture name="red normal0001" x="296" y="0" width="296" height="387" frameX="0" frameY="0" frameWidth="296" frameHeight="387" />
+<SubTexture name="red normal0002" x="592" y="0" width="296" height="387" frameX="0" frameY="0" frameWidth="296" frameHeight="387" />
+<SubTexture name="red normal0003" x="888" y="0" width="296" height="387" frameX="0" frameY="0" frameWidth="296" frameHeight="387" />
+<SubTexture name="red hurryS0000" x="0" y="387" width="296" height="387" frameX="0" frameY="0" frameWidth="296" frameHeight="387" />
+<SubTexture name="red hurry0000" x="0" y="387" width="296" height="387" frameX="0" frameY="0" frameWidth="296" frameHeight="387" />
+<SubTexture name="red hurry0001" x="296" y="387" width="296" height="387" frameX="0" frameY="0" frameWidth="296" frameHeight="387" />
+<SubTexture name="red hurry0002" x="592" y="387" width="296" height="387" frameX="0" frameY="0" frameWidth="296" frameHeight="387" />
+<SubTexture name="red hurry0003" x="888" y="387" width="296" height="387" frameX="0" frameY="0" frameWidth="296" frameHeight="387" />
+<SubTexture name="red angryS0000" x="0" y="774" width="296" height="387" frameX="0" frameY="0" frameWidth="296" frameHeight="387" />
+<SubTexture name="red angry0000" x="0" y="774" width="296" height="387" frameX="0" frameY="0" frameWidth="296" frameHeight="387" />
+<SubTexture name="red angry0001" x="296" y="774" width="296" height="387" frameX="0" frameY="0" frameWidth="296" frameHeight="387" />
+<SubTexture name="red angry0002" x="592" y="774" width="296" height="387" frameX="0" frameY="0" frameWidth="296" frameHeight="387" />
+<SubTexture name="red angry0003" x="888" y="774" width="296" height="387" frameX="0" frameY="0" frameWidth="296" frameHeight="387" />
+<SubTexture name="red happyS0000" x="0" y="1161" width="296" height="387" frameX="0" frameY="0" frameWidth="296" frameHeight="387" />
+<SubTexture name="red happy0000" x="0" y="1161" width="296" height="387" frameX="0" frameY="0" frameWidth="296" frameHeight="387" />
+<SubTexture name="red happy0001" x="296" y="1161" width="296" height="387" frameX="0" frameY="0" frameWidth="296" frameHeight="387" />
+<SubTexture name="red happy0002" x="592" y="1161" width="296" height="387" frameX="0" frameY="0" frameWidth="296" frameHeight="387" />
+<SubTexture name="red happy0003" x="888" y="1161" width="296" height="387" frameX="0" frameY="0" frameWidth="296" frameHeight="387" />
+<SubTexture name="red ...S0000" x="0" y="1548" width="296" height="387" frameX="0" frameY="0" frameWidth="296" frameHeight="387" />
+<SubTexture name="red ...0000" x="0" y="1548" width="296" height="387" frameX="0" frameY="0" frameWidth="296" frameHeight="387" />
+<SubTexture name="red ...0001" x="296" y="1548" width="296" height="387" frameX="0" frameY="0" frameWidth="296" frameHeight="387" />
+<SubTexture name="red ...0002" x="592" y="1548" width="296" height="387" frameX="0" frameY="0" frameWidth="296" frameHeight="387" />
+<SubTexture name="red ...0003" x="888" y="1548" width="296" height="387" frameX="0" frameY="0" frameWidth="296" frameHeight="387" />
+</TextureAtlas>

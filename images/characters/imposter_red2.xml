@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="imposter_red2.png">
+<SubTexture name="imposter_red2 Idle0000" x="0" y="0" width="564" height="414" frameX="0" frameY="0" frameWidth="564" frameHeight="414" />
+<SubTexture name="imposter_red2 Idle0001" x="564" y="0" width="564" height="414" frameX="0" frameY="0" frameWidth="564" frameHeight="414" />
+<SubTexture name="imposter_red2 Idle0002" x="1128" y="0" width="564" height="414" frameX="0" frameY="0" frameWidth="564" frameHeight="414" />
+<SubTexture name="imposter_red2 Idle0003" x="1692" y="0" width="564" height="414" frameX="0" frameY="0" frameWidth="564" frameHeight="414" />
+<SubTexture name="imposter_red2 Idle0004" x="2256" y="0" width="564" height="414" frameX="0" frameY="0" frameWidth="564" frameHeight="414" />
+<SubTexture name="imposter_red2 Idle0005" x="0" y="414" width="564" height="414" frameX="0" frameY="0" frameWidth="564" frameHeight="414" />
+<SubTexture name="imposter_red2 Left0000" x="564" y="414" width="564" height="414" frameX="0" frameY="0" frameWidth="564" frameHeight="414" />
+<SubTexture name="imposter_red2 Left0001" x="1128" y="414" width="564" height="414" frameX="0" frameY="0" frameWidth="564" frameHeight="414" />
+<SubTexture name="imposter_red2 Left0002" x="1692" y="414" width="564" height="414" frameX="0" frameY="0" frameWidth="564" frameHeight="414" />
+<SubTexture name="imposter_red2 Left0003" x="2256" y="414" width="564" height="414" frameX="0" frameY="0" frameWidth="564" frameHeight="414" />
+<SubTexture name="imposter_red2 Down0000" x="0" y="828" width="564" height="414" frameX="0" frameY="0" frameWidth="564" frameHeight="414" />
+<SubTexture name="imposter_red2 Down0001" x="564" y="828" width="564" height="414" frameX="0" frameY="0" frameWidth="564" frameHeight="414" />
+<SubTexture name="imposter_red2 Down0002" x="1128" y="828" width="564" height="414" frameX="0" frameY="0" frameWidth="564" frameHeight="414" />
+<SubTexture name="imposter_red2 Down0003" x="1692" y="828" width="564" height="414" frameX="0" frameY="0" frameWidth="564" frameHeight="414" />
+<SubTexture name="imposter_red2 Up0000" x="2256" y="828" width="564" height="414" frameX="0" frameY="0" frameWidth="564" frameHeight="414" />
+<SubTexture name="imposter_red2 Up0001" x="0" y="1242" width="564" height="414" frameX="0" frameY="0" frameWidth="564" frameHeight="414" />
+<SubTexture name="imposter_red2 Up0002" x="564" y="1242" width="564" height="414" frameX="0" frameY="0" frameWidth="564" frameHeight="414" />
+<SubTexture name="imposter_red2 Up0003" x="1128" y="1242" width="564" height="414" frameX="0" frameY="0" frameWidth="564" frameHeight="414" />
+<SubTexture name="imposter_red2 Right0000" x="1692" y="1242" width="564" height="414" frameX="0" frameY="0" frameWidth="564" frameHeight="414" />
+<SubTexture name="imposter_red2 Right0001" x="2256" y="1242" width="564" height="414" frameX="0" frameY="0" frameWidth="564" frameHeight="414" />
+<SubTexture name="imposter_red2 Right0002" x="0" y="1656" width="564" height="414" frameX="0" frameY="0" frameWidth="564" frameHeight="414" />
+<SubTexture name="imposter_red2 Right0003" x="564" y="1656" width="564" height="414" frameX="0" frameY="0" frameWidth="564" frameHeight="414" />
+<SubTexture name="imposter_red2 Shoot0000" x="1128" y="1656" width="564" height="414" frameX="0" frameY="0" frameWidth="564" frameHeight="414" />
+<SubTexture name="imposter_red2 Shoot0001" x="1692" y="1656" width="564" height="414" frameX="0" frameY="0" frameWidth="564" frameHeight="414" />
+<SubTexture name="imposter_red2 Shoot0002" x="2256" y="1656" width="564" height="414" frameX="0" frameY="0" frameWidth="564" frameHeight="414" />
+<SubTexture name="imposter_red2 Shoot0003" x="0" y="2070" width="564" height="414" frameX="0" frameY="0" frameWidth="564" frameHeight="414" />
+</TextureAtlas>

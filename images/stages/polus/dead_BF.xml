@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="dead_BF.png">
+<SubTexture name="idle0000" x="0" y="0" width="485" height="228" frameX="0" frameY="0" frameWidth="485" frameHeight="228" />
+<SubTexture name="idle0001" x="485" y="0" width="485" height="228" frameX="0" frameY="0" frameWidth="485" frameHeight="228" />
+<SubTexture name="idle0002" x="0" y="228" width="485" height="228" frameX="0" frameY="0" frameWidth="485" frameHeight="228" />
+<SubTexture name="idle0003" x="485" y="228" width="485" height="228" frameX="0" frameY="0" frameWidth="485" frameHeight="228" />
+</TextureAtlas>
