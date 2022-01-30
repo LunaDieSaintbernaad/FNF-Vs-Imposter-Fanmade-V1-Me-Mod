@@ -1,0 +1,67 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "red",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "Ha! I've done it!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "There's no way I'm killing him"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "You've got to be kidding me."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "red",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "Ha ha! Suck it up!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "red",
+			"boxState": "normal",
+			"expression": "hurry",
+			"text": "No, wait."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "red",
+			"boxState": "angry",
+			"expression": "hurry",
+			"text": "How come you can talk?!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Well, it's impossible to beat me."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "The only way I'll die is if the game is destroyed."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "red",
+			"boxState": "normal",
+			"expression": "hurry",
+			"text": "Shit."
+		}
+	]
+}

@@ -1,0 +1,81 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Good! The task is going well!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "red",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Hey, how's the task going?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "It's not over yet, but it's going well!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "red",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Okay."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "red",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "I'm done with my task!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Hmm? Wait a minute."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "You're finishing your task too soon, aren't you?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "angry",
+			"expression": "shocked",
+			"text": "Maybe you're the Imposter?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "red",
+			"boxState": "normal",
+			"expression": "hurry",
+			"text": "..."
+		},
+		{
+			"speed": 0.1,
+			"portrait": "red",
+			"boxState": "normal",
+			"expression": "hurry",
+			"text": "I can't be the Imposter! And if I were the Imposter, I'd kill you! So I'm not an Imposter! Do you understand?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "You're the Imposter."
+		}
+	]
+}

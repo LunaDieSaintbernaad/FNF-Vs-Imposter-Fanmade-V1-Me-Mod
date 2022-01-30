@@ -1,0 +1,129 @@
+{
+	"song": {
+		"speed": 2.7,
+		"stage": "polus1",
+		"player1": "bf",
+		"player2": "imposter-red2",
+		"player3": null,
+		"events": [
+			[
+				141705.882352941,
+				[
+					[
+						"MoveArrow",
+						"0",
+						"0, 0, 0, 0, 1"
+					]
+				]
+			],
+			[
+				141794.117647059,
+				[
+					[
+						"MoveArrow",
+						"1",
+						"0, 0, 0, 0, 1"
+					]
+				]
+			],
+			[
+				141882.352941176,
+				[
+					[
+						"MoveArrow",
+						"2",
+						"0, 0, 0, 0, 1"
+					]
+				]
+			],
+			[
+				141970.588235294,
+				[
+					[
+						"MoveArrow",
+						"3",
+						"0, 0, 0, 0, 1"
+					]
+				]
+			],
+			[
+				142058.823529412,
+				[
+					[
+						"MoveArrow",
+						"4",
+						"0, 0, 0, 0, 1"
+					]
+				]
+			],
+			[
+				142147.058823529,
+				[
+					[
+						"MoveArrow",
+						"5",
+						"0, 0, 0, 0, 1"
+					]
+				]
+			],
+			[
+				142235.294117647,
+				[
+					[
+						"MoveArrow",
+						"6",
+						"0, 0, 0, 0, 1"
+					]
+				]
+			],
+			[
+				142323.529411764,
+				[
+					[
+						"MoveArrow",
+						"7",
+						"0, 0, 0, 0, 1"
+					]
+				]
+			],
+			[
+				144000,
+				[
+					[
+						"Change Character",
+						"bf",
+						"bf-die"
+					]
+				]
+			],
+			[
+				144794.117647059,
+				[
+					[
+						"Play Animation",
+						"shoot scared",
+						"bf"
+					]
+				]
+			],
+			[
+				145411.764705882,
+				[
+					[
+						"Play Animation",
+						"shoot die",
+						"bf"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "nogf",
+		"bpm": 170,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Sabotage"
+	}
+}

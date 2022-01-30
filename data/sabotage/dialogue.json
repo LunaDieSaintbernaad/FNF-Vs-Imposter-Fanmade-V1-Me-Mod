@@ -1,0 +1,81 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "red",
+			"boxState": "normal",
+			"expression": "...",
+			"text": "..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "red",
+			"boxState": "normal",
+			"expression": "...",
+			"text": "Oh, and I'm the Imposter,so that's \\na no brainer,right?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "OK, I'll go and press the conference button then."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "red",
+			"boxState": "normal",
+			"expression": "...",
+			"text": "Oops! I won't let that happen."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "...?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "red",
+			"boxState": "normal",
+			"expression": "...",
+			"text": "If we kill you here, we won't be able to hold the meeting, will we?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "angry",
+			"expression": "shocked",
+			"text": ""
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "angry",
+			"expression": "confused",
+			"text": "Wait! Let's talk about it!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "red",
+			"boxState": "normal",
+			"expression": "...",
+			"text": "No use."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "angry",
+			"expression": "confused",
+			"text": "Let's talk-"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "red",
+			"boxState": "normal",
+			"expression": "...",
+			"text": "No use."
+		}
+	]
+}
