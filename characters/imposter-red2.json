@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				-14
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "imposter_red2 Idle"
+		},
+		{
+			"offsets": [
+				58,
+				-12
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "imposter_red2 Left"
+		},
+		{
+			"offsets": [
+				-62,
+				-5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "imposter_red2 Right"
+		},
+		{
+			"offsets": [
+				-28,
+				-25
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "imposter_red2 Down"
+		},
+		{
+			"offsets": [
+				-1,
+				-3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "imposter_red2 Up"
+		},
+		{
+			"offsets": [
+				0,
+				-13
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "shoot",
+			"indices": [],
+			"name": "imposter_red2 Shoot"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/imposter_red2",
+	"position": [
+		0,
+		300
+	],
+	"healthicon": "red",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		0
+	],
+	"camera_position": [
+		-250,
+		30
+	],
+	"sing_duration": 4,
+	"scale": 1.2
+}

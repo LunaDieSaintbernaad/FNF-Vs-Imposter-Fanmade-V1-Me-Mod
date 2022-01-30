@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-14
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "imposter_red Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				58,
+				-12
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "imposter_red Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-62,
+				-5
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "imposter_red Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-28,
+				-25
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "imposter_red Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-1,
+				-15
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "imposter_red Up",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/imposter_red",
+	"position": [
+		0,
+		300
+	],
+	"healthicon": "red",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		0
+	],
+	"camera_position": [
+		-250,
+		30
+	],
+	"sing_duration": 4,
+	"scale": 1.2
+}

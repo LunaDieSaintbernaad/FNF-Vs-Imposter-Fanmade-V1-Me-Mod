@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "AMOGUS Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				192,
+				-23
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "AMOGUS Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				-60
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "AMOGUS Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				-160
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "AMOGUS Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				14,
+				71
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "AMOGUS Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "hay",
+			"fps": 24,
+			"name": "AMOGUS Hay",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "AMOGUS/AMOGUS",
+	"position": [
+		0,
+		240
+	],
+	"healthicon": "amogus",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		-170,
+		110
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
