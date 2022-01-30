@@ -1,0 +1,76 @@
+{
+	"position": [
+		150,
+		100
+	],
+	"dialogue_pos": "left",
+	"scale": 1.45,
+	"image": "Red_Dialogue",
+	"animations": [
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "talk",
+			"idle_name": "red normalS",
+			"loop_name": "red normal"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "angry",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "red angry",
+			"idle_name": "red angryS"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "happy",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "red happy",
+			"idle_name": "red happyS"
+		},
+		{
+			"loop_name": "red hurry",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "red hurryS",
+			"anim": "hurry",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "red ...",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "red ...S",
+			"anim": "...",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	]
+}
