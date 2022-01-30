@@ -1,0 +1,49 @@
+{
+	"storyName": "Polus",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "polus",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Sussus Moogus",
+			"red",
+			[
+				255,
+				0,
+				0
+			]
+		],
+		[
+			"Sabotage",
+			"red",
+			[
+				255,
+				0,
+				0
+			]
+		],
+		[
+			"Meltdown",
+			"red2",
+			[
+				255,
+				0,
+				0
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Polus"
+}
