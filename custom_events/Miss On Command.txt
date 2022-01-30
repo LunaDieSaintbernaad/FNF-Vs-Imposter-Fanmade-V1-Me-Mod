@@ -1,0 +1,6 @@
+Makes a miss sound or adds a miss
+
+Value 1: Miss Type (1 = Miss Sound)
+(Anything else = Fake Miss)
+
+Value 2: Nothing

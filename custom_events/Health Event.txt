@@ -1,0 +1,5 @@
+Designate the amount of health
+you want to reduce!
+
+Value 1: health
+Value 2: health
